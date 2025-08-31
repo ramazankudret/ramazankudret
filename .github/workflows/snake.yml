@@ -1,27 +1,21 @@
 name: Generate Snake
 on:
-  schedule:
-    - cron: "0 */12 * * *"     # 12 saatte bir
+  schedule: [{ cron: "0 */12 * * *" }]
   workflow_dispatch:
-  push:
-    branches: [ "main" ]
+  push: { branches: [ "main" ] }
 permissions:
   contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: ramazankudret
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - name: Publish SVG to output branch
+          outputs: dist/github-contribution-grid-snake.svg
+      - name: Publish to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
