@@ -83,12 +83,7 @@
 ---
 
 ## 📌 Featured Projects
-- 🔒 **ERK Defence AI** — Multi-layer cyber defence platform  
-  → https://github.com/ramazankudret/erk-defence  
-- 🧠 **ERKInt** — Agentic AI intelligence core  
-  → https://github.com/ramazankudret/erkint  
-- 🌐 **Kalben** — Premium e-commerce (UI/UX + branding)  
-  → https://github.com/ramazankudret/kalben  
+- 🔒 **ERK Defence AI**—Multi-layer cyber defence platform  
 
 <details>
 <summary><b>More</b></summary>
