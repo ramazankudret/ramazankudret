@@ -1,19 +1,20 @@
 <!--
   ─────────────────────────────────────────────────────────────
   KURULUM
-  1. github.com/new  ->  repo adi: ramazankudret   (public, README isaretli)
-  2. Bu klasorun icerigini o reponun kokune koy:
+  Bu README, SVG'lerin repo KOKUNDE oldugu duzene gore ayarli:
         README.md
-        assets/header.svg
-        assets/cuda-canvas.svg
-        assets/erk-coding.svg
-  3. MAIL_ADRESIN ve LINKEDIN_KULLANICI_ADIN degistir.
-  4. Settings -> Public profile -> "Include private contributions
+        header.svg
+        cuda-canvas.svg
+        erk-coding.svg
+  Gorseller width ozelligi TASIMIYOR — GitHub sutun genisligine
+  kendisi sigdiriyor, yuzdeli genislik bazen temizleniyor.
+
+  Settings -> Public profile -> "Include private contributions
      on my profile" -> ACIK   (yesil kareler private commit'lerinle dolar)
   ─────────────────────────────────────────────────────────────
 -->
 
-<img src="./header.svg" alt="Ramazan Kudret — GPU · CUDA · Cyber Security" width="100%">
+<img src="./header.svg" alt="Ramazan Kudret — GPU · CUDA · Cyber Security">
 
 <br>
 
@@ -32,7 +33,7 @@ you can't miss.
 
 <br>
 
-<img src="./cuda-canvas.svg" alt="CUDA workbench: nvcc build, warp scheduler sweep, live telemetry" width="100%">
+<img src="./cuda-canvas.svg" alt="CUDA workbench: nvcc build, warp scheduler sweep, live telemetry">
 
 <br>
 
