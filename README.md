@@ -13,7 +13,7 @@
   ─────────────────────────────────────────────────────────────
 -->
 
-<img src="./assets/header.svg" alt="Ramazan Kudret — GPU · CUDA · Cyber Security" width="100%">
+<img src="./header.svg" alt="Ramazan Kudret — GPU · CUDA · Cyber Security" width="100%">
 
 <br>
 
@@ -32,7 +32,7 @@ you can't miss.
 
 <br>
 
-<img src="./assets/cuda-canvas.svg" alt="CUDA workbench: nvcc build, warp scheduler sweep, live telemetry" width="100%">
+<img src="./cuda-canvas.svg" alt="CUDA workbench: nvcc build, warp scheduler sweep, live telemetry" width="100%">
 
 <br>
 
@@ -40,7 +40,7 @@ you can't miss.
 
 ```text
 Systems     C++17/20 · CUDA · NVML · pybind11 · CMake · Linux · Assembly (MIPS/PIC)
-Inference   TensorRT · Jetson (AGX Orin) · ONNX · PyTorch
+Inference   TensorRT  · ONNX · PyTorch
 Perception  Kalman filtering · multi-target tracking · signal processing · ZED SDK
 Security    P4/bmv2 · Mininet · adversarial ML · network asset discovery
 ```
@@ -50,7 +50,7 @@ Security    P4/bmv2 · Mininet · adversarial ML · network asset discovery
 <table>
 <tr>
 <td width="290" valign="middle">
-  <img src="./assets/erk-coding.svg" alt="ERK, the wolf pup, writing CUDA" width="270">
+  <img src="./erk-coding.svg" alt="ERK, the wolf pup, writing CUDA" width="270">
 </td>
 <td valign="middle">
 
