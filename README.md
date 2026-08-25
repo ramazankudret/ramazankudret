@@ -70,7 +70,7 @@ question of whether the bottleneck is the kernel or the copy.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/LINKEDIN_KULLANICI_ADIN"><img src="https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"></a>
-  <a href="mailto:MAIL_ADRESIN"><img src="https://img.shields.io/badge/Email-0B0F14?style=for-the-badge&logo=gmail&logoColor=FF4D5E" alt="Email"></a>
+  <a href="mailto:MAIL_ADRESIN"><img src="https://img.shields.io/badge/Email-0B0F14?style=for-the-badge&logo=gmail&logoColor=FF4D5E" alt="eramazankudret@gmail.com"></a>
 </p>
 
 
